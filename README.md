@@ -14,12 +14,12 @@
 Donde *n* es un número que identifica a la imagen
 
 #### Enlace a notebook de Google Colab con código fuente de entrenamiento de YOLOv4 con imágenes del dataset con estampillas en paquete de yerba mate
-[a link](https://drive.google.com/file/d/16_phadZ_Yy_vURkFvFKNS4CvEjoNy5Te/view?usp=sharing)
+[DI-Machine_Learning_Train_YOLOv4.ipynb](https://drive.google.com/file/d/16_phadZ_Yy_vURkFvFKNS4CvEjoNy5Te/view?usp=sharing)
 
 #### Enlace a notebook de Google Colab con código fuente de aplicación que captura imágenes y video de una WebCam a través del navegador. Luego analiza con los pesos y parámetros de configuración entrenados para detectar estampillas. 
-[a link](https://drive.google.com/file/d/1A2Rjj8FoIodgluMtmPvPEivvQmDNL342/view?usp=sharing)
+[DI_Machine_Learning_App_YOLOv4_webcam.ipynb](https://drive.google.com/file/d/1A2Rjj8FoIodgluMtmPvPEivvQmDNL342/view?usp=sharing)
 
-Son los mismos que se pueden obtener en este repositorio 
-- DI-Machine_Learning_Train_YOLOv4.ipynb
-- DI_Machine_Learning_App_YOLOv4_webcam.ipynb
+Son los mismos que se pueden obtener respectivamente en este repositorio: 
+- [https://github.com/HernanBareiro/DI_machine_learning/blob/main/DI_Machine_Learning_App_YOLOv4_webcam.ipynb](https://github.com/HernanBareiro/DI_machine_learning/blob/main/DI_Machine_Learning_App_YOLOv4_webcam.ipynb)
+- [https://github.com/HernanBareiro/DI_machine_learning/blob/main/DI_Machine_Learning_App_YOLOv4_webcam.ipynb](https://github.com/HernanBareiro/DI_machine_learning/blob/main/DI_Machine_Learning_App_YOLOv4_webcam.ipynb)
 
